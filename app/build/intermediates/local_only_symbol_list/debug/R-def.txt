@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_calculate
+id edt_cost
+id rb_amazing
+id rb_good
+id rb_ok
+id rg_tip_option
+id switch_round_up
+id tv_how_the_service
+id tv_tip_result
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string amazing_20
+string app_name
+string cost_of_service
+string good_18
+string hitung
+string input_error
+string ok_15
+string round_up_tip
+string total_tip
+style Theme.CalculationTip
+xml backup_rules
+xml data_extraction_rules

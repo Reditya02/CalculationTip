@@ -1,0 +1,13 @@
+#Wed Sep 28 13:54:45 WIB 2022
+path.3=13/classes.dex
+path.2=11/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.3=D\:\\Kuliah\\Synrgy\\Tugas\\Tugas 2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
+base.2=D\:\\Kuliah\\Synrgy\\Tugas\\Tugas 2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.1=D\:\\Kuliah\\Synrgy\\Tugas\\Tugas 2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=D\:\\Kuliah\\Synrgy\\Tugas\\Tugas 2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex

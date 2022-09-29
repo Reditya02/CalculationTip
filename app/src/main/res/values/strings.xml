@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalculationTip</string>
+    <string name="cost_of_service">Cost of Service</string>
+    <string name="amazing_20">Amazing(20%)</string>
+    <string name="good_18">Good(18%)</string>
+    <string name="ok_15">OK(15%)</string>
+    <string name="round_up_tip">Round up Tip?</string>
+    <string name="hitung">Hitung</string>
+    <string name="total_tip">Total tip</string>
+    <string name="input_error">Bagian ini harus diisi</string>
+</resources>
